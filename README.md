@@ -4,7 +4,7 @@
 
 你可以在此站点抢先下载最新版本的整合包，因为整合包打包后第一时间都是发布在这里
 
-若想要其他版本的下载链接[请看这里](https://liuxirivers.github.io/OWDminecraftmodpack/ "官方网站")
+若想要其他版本的下载链接[请看这里](https://liuxirivers.github.io/OWDminecraftmodpack/ "官方网站")，若遇到无法打开的情况请刷新
 
 # 我可以得到什么？
 
