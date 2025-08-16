@@ -14,4 +14,4 @@
 
 这里暂不提供旧版本下载（beta1.2.5-)版本
 
-找不到release？点击[这里](https://github.com/liuxirivers/Rice-Wave-Journey-Minecraft-Modpack/releases "下载-release")
+找不到release？点击[这里](https://github.com/liuxirivers/Rice-Wave-Journey-Minecraft-Modpack/releases "下载-release")下载我不会在官网公开的版本
