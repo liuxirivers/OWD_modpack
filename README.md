@@ -12,4 +12,6 @@
 
 一些特殊的彩蛋版本和内测版在这里发布
 
-这里暂不提供旧版本下载
+这里暂不提供旧版本下载（beta1.2.5-)版本
+
+找不到release？点击[这里](https://github.com/liuxirivers/Rice-Wave-Journey-Minecraft-Modpack/releases "下载-release")
