@@ -1,0 +1,400 @@
+﻿![自定义游戏加载界面] drippyloadingscreen_forge_3.0.12_MC_1.20.1.jar
+[3D 皮肤层] skinlayers3d-forge-1.9.0-mc1.20.1.jar
+[Alex 的洞穴] alexscaves-2.0.2.jar
+[Alex 的生物] alexsmobs-1.22.9.jar
+[C^3M 引擎] c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar
+[FTB 团队] ftb-teams-forge-2001.3.1.jar
+[FTB任务] ftb-quests-forge-2001.4.14.jar
+[JEI物品管理器] jei-1.20.1-forge-15.20.0.112.jar
+[Leawind的第三人称] leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar
+[Macaw 的窗户] mcw-windows-2.4.0-1.20.1forge.jar
+[Macaw 的门] mcw-doors-1.1.2-mc1.20.1forge.jar
+[Macaw的灯] mcw-lights-1.1.2-mc1.20.1forge.jar
+[Macaw的画] mcw-paintings-1.0.5-1.20.1forge.jar
+[Macaw的活板门] mcw-trapdoors-1.1.4-mc1.20.1forge.jar
+[Macaw的家具] mcw-furniture-3.3.0-mc1.20.1forge.jar
+[Macaw的楼梯与露台] mcw-stairs-1.0.1-1.20.1forge.jar
+[Macaw的桥梁] mcw-bridges-3.1.0-mc1.20.1forge.jar
+[Macaw的屋顶] mcw-roofs-2.3.2-mc1.20.1forge.jar
+[Macaw的小径和路面] mcw-paths-1.1.0forge-mc1.20.1.jar
+[Macaw的栅栏与墙：超多生物群系附属] mcwbiomesoplenty-1.20.1-1.2.1.jar
+[Macaw的栅栏与墙] mcw-fences-1.2.0-1.20.1forge.jar
+[Minecraft Chromium 嵌入式框架] mcef-forge-2.1.6-1.20.1.jar
+[MrCrayfish 的家具：重制] refurbished_furniture-forge-1.20.1-1.0.14.jar
+[YUNG 的地牢优化] YungsBetterDungeons-1.20-Forge-4.0.4.jar
+[YUNG 的矿井优化] YungsBetterMineshafts-1.20-Forge-4.0.4.jar
+[YUNG 的下界要塞优化] YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar
+[YUNG 的要塞优化] YungsBetterStrongholds-1.20-Forge-4.0.3.jar
+[YUNG的洞穴生物群系] YungsCaveBiomes-1.20.1-Forge-2.0.5.jar
+[YUNG的海底神殿优化] YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar
+[YUNG的末地岛屿优化] YungsBetterEndIsland-1.20-Forge-2.0.6.jar
+[YUNG的沙漠神殿优化] YungsBetterDesertTemples-1.20-Forge-3.0.3.jar
+[YUNG的沼泽小屋优化] YungsBetterWitchHuts-1.20-Forge-3.0.3.jar
+[搬运] carryon-forge-1.20.1-2.1.2.7.jar
+[背包] backpacked-forge-1.20.1-3.0.0-beta.9.jar
+[边划边看] Boat-Item-View-Forge-1.20.1-0.0.5.jar
+[边拿边走] InvMove-0.9.0+1.20.1-Forge.jar
+[别样家具] another_furniture-forge-1.20.1-3.0.2.jar
+[冰山] Iceberg-1.20.1-forge-1.1.25.jar
+[不羁乐事] untameddelight-1.20.1-1.1.0.jar.disabled
+[不羁野性] untamedwilds-1.20.1-4.0.4.jar.disabled
+[超多生物群系] BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
+[潮汐小镇] tidal-towns-1.3.4.jar
+[沉浸工程] ImmersiveEngineering-1.20.1-10.2.0-183.jar
+[沉浸画框] immersive_paintings-0.6.8+1.20.1-forge.jar
+[沉浸农艺] letsdo-farm_and_charm-forge-1.0.12.jar
+[沉浸式MC] immersivemc-1.5.8-1.20.1-forge.jar
+[沉浸式飞机] immersive_aircraft-1.3.3+1.20.1-forge.jar
+[沉浸式盔甲 HUD] immersivearmorhud-forge-1.0.1-1.20.1.jar
+[陈列柜] Display Case-forge-1.20-1.0.8.jar
+[传奇怪物] legendarymonsters-1.9.8 MC 1.20.1.jar
+[纯素乐事] vegandelight-1.4.jar
+[存储乐事] storagedelight-25.06.26-1.20-forge.jar
+[存档置顶] cherishedworlds-forge-6.1.7+1.20.1.jar
+[地牢浮现之时] DungeonsArise-1.20.x-2.1.58-release.jar
+[地牢建筑统合] idas_forge-1.12.0+1.20.1.jar
+[动态 FPS] dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar
+[动态的树／有活力的树] DynamicTrees-1.20.1-1.4.5.jar.disabled
+[动物喂养槽] animal_feeding_trough-1.1.0+1.20.1-quilt.jar
+[豆腐工艺重制版] TofuCraftReload-1.20.1-5.17.1.0.jar
+[凡家物语：重生] minecraft-comes-alive-7.6.11+1.20.1-universal.jar.disabled
+[方块小镇] yuushya-1.20.1-forge-2.2.3.jar
+[馥郁烘焙] letsdo-bakery-forge-2.0.6.jar
+[高级下界合金] advancednetherite-forge-2.1.3-1.20.1.jar
+[更聪明的农夫] smarterfarmers-1.20-2.1.2.jar
+[更多村民] morevillagers-forge-1.20.1-5.0.0.jar
+[更多动画] notenoughanimations-forge-1.10.1-mc1.20.1.jar
+[更多生物变种] moremobvariants-forge+1.20.1-1.3.0.1.jar
+[更好地破坏半砖] kleeslabs-forge-1.20.1-15.0.9.jar
+[更好的F3] BetterF3-7.0.2-Forge-1.20.1.jar
+[更好的村庄] bettervillage-forge-1.20.1-3.3.1-all.jar
+[更好的进度] BetterAdvancements-NeoForge-1.20.1-0.4.2.25.jar
+[更好的考古学] betterarcheology-1.2.1-1.20.1.jar
+[更好的末地] better-end-4.0.11.jar
+[更好的攀爬] better_climbing-forge-3.jar
+[更好的统计信息界面] betterstats-3.12.6+fabric-1.20.1.jar
+[更好的下界] better-nether-9.0.10.jar
+[更美观的血条] colorfulhearts-forge-1.20.1-4.3.16.jar
+[更真实的第一人称模型] firstperson-forge-2.5.0-mc1.20.1.jar
+[孤独HUD] BoccHUD-0.1.7-mc1.20.1.jar
+[光子] photon-forge-1.20.1-1.1.14.jar
+[果园乐事] fruitsdelight-1.0.22.jar
+[海洋乐事] oceansdelight-1.0.2-1.20.jar
+[滑翔伞] Paraglider-forge-20.1.3.jar
+[火花] spark-1.10.53-forge.jar
+[机械动力：咖啡馆] createcafe-1.2.4-1.20.1.jar
+[机械动力：内饰] interiors-0.5.6+forge-mc1.20.1-local.jar
+[机械动力：喷气背包] create_jetpack-forge-4.4.2.jar
+[机械动力] create-1.20.1-6.0.6.jar
+[加速火把] Torcherino-forge-1.20.1-20.0.0.jar
+[简单的语音聊天] voicechat-forge-1.20.1-2.5.36.jar
+[简单飞机] simpleplanes-1.20.1-5.3.3.jar
+[简单帽子] simplehats-forge-1.20.1-0.3.2.jar
+[简单商店] simpleshops-1.2.2.jar
+[键位冲突显示] Controlling-forge-1.20.1-12.0.2.jar
+[脚步声] PresenceFootsteps-1.10.1+1.20.1.jar
+[节日乐事] Festive_Delight_1.3_Forge_1.20.1.jar
+[截图查看器] screenshot_viewer-1.3.2-forge-mc1.20.1.jar
+[锦致装饰] supplementaries-1.20-3.1.37.jar
+[进度牌匾] AdvancementPlaques-1.20.1-forge-1.6.9.jar
+[进食动画] eatinganimation-1.20.1-5.1.0.jar
+[经验机制改革] Clumps-forge-1.20.1-12.0.0.4.jar
+[精简锦饰] convenientdecor-0.4.3.jar
+[精妙背包] sophisticatedbackpacks-1.20.1-3.23.24.1302.jar
+[精妙核心] sophisticatedcore-1.20.1-1.2.80.1073.jar
+[精巧手艺] handcrafted-forge-1.20.1-3.0.6.jar
+[开放式电梯] elevatorid-1.20.1-1.9.1-forge.jar
+[氪Forge版] KryptonReforged-0.2.3.jar
+[夸克] Quark-4.0-462.jar
+[夸克乐事] quark_delight_1.0.0_forge_1.20.1.jar
+[矿工乐事] miners_delight-1.20.1-1.2.3.jar
+[框架方块] FramedBlocks-9.4.2.jar
+[镭] radium-mc1.20.1-0.12.4+git.26c9d8e.jar
+[连锁破坏] ftb-ultimine-forge-2001.1.6.jar
+[聊天头像] chat_heads-0.13.18-forge-1.20.jar
+[钌] RuOK-1.7.1_1.20.1-Forge.jar
+[流畅加载重置版] smoothboot(reloaded)-mc1.20.1-0.0.4.jar
+[龙骑士重置版] dragonmounts-1.20.1-1.2.3-beta.jar
+[录像回放] replaymod-1.20.1-2.6.15.jar
+[旅行地图] journeymap-1.20.1-5.10.3-forge.jar
+[美化！] beautify-2.0.2.jar
+[蜜蜂领域／黄蜂领域] the_bumblezone-7.8.0+1.20.1-forge.jar
+[末地乐事] ends_delight-2.5.1+forge.1.20.1.jar
+[末影乐事] endersdelight-forge-1.20.1-1.1.3.jar
+[末影人革新] endermanoverhaul-forge-1.20.1-1.0.4.jar
+[暮色风味乐事] twilightdelight-2.0.17.jar
+[暮色森林] twilightforest-1.20.1-4.3.2508-universal.jar
+[内存泄漏修复] memoryleakfix-forge-1.17+-1.1.5.jar
+[农夫乐事] FarmersDelight-1.20.1-1.2.8.jar
+[农夫暇事] farmersrespite-1.20.1-2.1.2.jar
+[帕秋莉手册] Patchouli-1.20.1-84.1-FORGE.jar
+[潘马斯农场2] pamhc2crops-1.20-1.0.3.jar
+[潘马斯农场2] pamhc2foodcore-1.20.4-1.0.5.jar
+[潘马斯农场2] pamhc2foodextended-1.20.4-1.0.1.jar
+[潘马斯农场2] pamhc2trees-1.20-1.0.2.jar
+[配置界面] configured-forge-1.20.1-2.2.3.jar
+[平滑转移] smoothswapping-0.9.2-1.20.1-forge.jar
+[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar
+[葡园酒香] letsdo-vinery-forge-1.4.40.jar
+[漆] urushi-1.20.1-6.5.4.jar
+[潜影盒槽位] shulkerboxslot-forge-5.2.0+1.20.1.jar
+[鞘翅槽位] elytraslot-forge-6.4.4+1.20.1.jar
+[青青草甸] letsdo-meadow-forge-1.3.25.jar
+[全景图] panorama-1.3.0 - 1.20.1.jar
+[全息蓝图] Forgematica-0.1.13-mc1.20.1.jar
+[热带世界] Tropicraft-9.6.3.jar
+[任务拓展] questsadditions-1.4.7.jar
+[熔炉性能优化] FastFurnace-1.20.1-8.0.2.jar
+[铷 · 扩展] rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar
+[沙滩派对] letsdo-beachparty-forge-2.0.3.jar
+[烧烤乐事] barbequesdelight-1.0.5.jar
+[盛节精酿] letsdo-brewery-forge-2.0.6.jar
+[失落废墟] AdditionalStructures-1.20.x-(v.4.2.2).jar
+[时装盔甲] CosmeticArmor-1.20-1.6.0.jar
+[实体模型特性] entity_model_features_forge_1.20.1-2.4.1.jar
+[实体纹理特性] entity_texture_features_forge_1.20.1-6.2.9.jar
+[实体渲染机制优化] entityculling-forge-1.8.2-mc1.20.1.jar
+[舒适用品] comforts-forge-6.4.0+1.20.1.jar
+[属性修复] AttributeFix-Forge-1.20.1-21.0.4.jar
+[鼠标手势] MouseTweaks-forge-mc1.20.1-2.25.1.jar
+[树叶快速腐烂] FastLeafDecay-32.jar
+[树叶渲染优化] cullleaves-forge-3.2.0.jar.disabled
+[水产乐事] aquaculturedelight-1.1.1-forge-1.20.1.jar
+[水产业2／水产品2] Aquaculture-1.20.1-2.5.5.jar
+[探险者指南针] ExplorersCompass-1.20.1-1.3.3-forge.jar
+[天境：新生代] aether-redux-2.0.19-1.20.1-neoforge.jar
+[天境] aether-1.20.1-1.5.2-neoforge.jar
+[天境村庄] AetherVillages-1.20.1-1.0.7-forge.jar
+[天境乐事] aether_delight_1.0.0_forge_1.20.1.jar
+[天空村庄] SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar
+[铁氧体磁芯] ferritecore-6.0.1-forge.jar
+[煨茶酝露] letsdo-herbalbrews-forge-1.0.12.jar
+[未至之地] RegionsUnexploredForge-0.5.6+1.20.1.jar
+[我们走过的生物群系] Oh-The-Biomes-Weve-Gone-Forge-1.6.4.jar
+[无题鸭] untitledduckmod-1.1.0-forge-1.20.1.jar
+[物理声效重制版] sound-physics-remastered-forge-1.20.1-1.4.15.jar
+[物品过滤器] item-filters-forge-2001.1.0-build.59.jar
+[物品栏HUD+] inventoryhud.forge.1.20.1-3.4.26.jar
+[下界乐事] nethersdelight-1.20.1-4.0.jar
+[现代化修复] modernfix-forge-5.24.4+mc1.20.1.jar
+[乡村乐事] rusticdelight-forge-1.20.1-1.4.1.jar
+[蟹农乐事] CrabbersDelight-1.20.1-1.1.7e.jar
+[信雅互联] Connector-1.0.0-beta.46+1.20.1.jar
+[星光] starlight-1.1.2+forge.1cda73c.jar
+[修复GPU内存泄漏] gpumemleakfix-1.20.1-1.8.jar
+[腌渍乐事] vintagedelight-0.1.6.jar
+[妖怪之山通用库] mysterious_mountain_lib-1.5.23-1.20.1.jar
+[摇曳露营] letsdo-camping-forge-1.0.4.jar
+[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.18.jar
+[一闪] Flash 4.0 (1.20.1).jar
+[移除重载界面] rrls-4.0.6.1+mc1.20.1-forge.jar
+[玉 🔍] Jade-1.20.1-Forge-11.13.2.jar
+[玉米乐事] corn_delight-1.1.8-1.20.1.jar
+[玉食俱馩] cornexpansion-forge-1.0.4.jar
+[预生成区块] Chunky-1.3.146.jar
+[绽芳自然] letsdo-bloomingnature-forge-1.0.12.jar
+[照相机] camera-forge-1.20.1-1.0.20.jar
+[植树盆栽] BotanyTrees-Forge-1.20.1-9.0.18.jar
+[植物盆栽] BotanyPots-Forge-1.20.1-13.0.41.jar
+[烛火晚宴] letsdo-candlelight-forge-2.0.5.jar
+[自动汉化更新] I18nUpdateMod-3.6.2-all.jar
+[自然罗盘／生物群系指南针] NaturesCompass-1.20.1-1.11.2-forge.jar
+[自然主义] naturalist-5.0pre5+forge-1.20.1.jar
+[自由村民] libertyvillagers-2.0.0+forge+1.20.1.jar
+a_good_place-1.20-1.2.8.jar
+abridged-2.0.0-forge-1.20.1.jar
+addonslib-1.20.1-1.5.jar
+adorablehamsterpets-3.1.2-1.20.1+forge.jar
+aeroblender-1.20.1-1.0.1-neoforge.jar
+alexsdelight-1.5.jar
+allroads-0.1.0.jar
+All-The-Wood-Weve-Got-Forge-1.2.2.jar
+almanac-1.20.x-forge-1.0.2.jar
+alphaskins-1.20-3.0.0.jar
+amendments-1.20-2.1.2.jar
+Animation_Overhaul-forge-1.20.x-1.3.1.jar
+architectury-9.2.14-forge.jar
+async-locator-forge-1.20-1.3.0.jar
+athena-forge-1.20.1-3.1.2.jar
+Aviator Dreams 2.0.1-2 1.20.1-Forge.jar
+awesomedungeonocean-forge-1.20.1-3.3.0.jar
+Axiom-5.0.1-for-MC1.20.1.jar
+BadOptimizations-2.3.0-1.20.1.jar
+bagus_lib-1.20.1-5.4.0.jar
+balm-forge-1.20.1-7.3.34-all.jar
+bclib-3.0.14.jar
+Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Forge] - [1.20-1.20.1].jar
+Better_Modlist-0.1.12-all.jar
+BetterBeds-1.0.0.jar
+betterfpsdist-1.20.1-6.0.jar
+BiomeParticleWeather-v4.1.0-1.20.1-Forge.jar
+bloodbits-1.10-forge-1.20.1.jar
+Bookshelf-Fabric-1.20.1-20.2.13.jar
+breezy-1.20.1-1.2.1.jar
+caelus-forge-3.2.0+1.20.1.jar
+CameraOverhaul-v2.0.4-forge+mc[1.20.0-1.20.5].jar
+CarbonConfig-1.20-1.2.7.1.jar
+Chimes-v2.0.1-1.20.1.jar
+citadel-2.6.2-1.20.1.jar
+cloth-config-11.1.136-forge.jar
+cluttered-2.1-1.20.1.jar
+cobweb-forge-1.20.1-1.0.1.jar
+collective-1.20.1-8.3.jar
+Companion-1.20.1-Forge-5.3.0.jar
+Connectible Chains-forge-1.20.1-1.1.1.jar
+connectivity-1.20.1-7.1.jar
+continuity-3.0.0+1.20.1.forge.jar
+Corgilib-Forge-1.20.1-4.0.3.4.jar
+cosmizys_new_ores-1.0.0-forge-1.20.1.jar
+CrashAssistant-forge-1.19-1.20.1-1.9.15.jar
+create_hypertube-0.2.5-FORGE.jar
+create-structures-0.1.1-1.20.1-FORGE.jar
+CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+cristellib-1.1.6-forge.jar
+crittersandcompanions-forge-1.20.1-2.3.1.jar
+crumbslib-1.20.1-1.0.19.jar
+cupboard-1.20.1-2.7.jar
+curios-forge-5.14.1+1.20.1.jar
+CustomSkinLoader_ForgeV2-14.25.jar
+delightfulburgers-1.20.1.jar
+delightfulsandwich-1.20.1.jar
+DiagonalFences-v8.1.5-1.20.1-Forge.jar
+displaydelight-0.0.1-lite.jar
+DistantHorizons-2.3.4-b-1.20.1-fabric-forge.jar.disabled
+do_a_barrel_roll-forge-3.5.6+1.20.1.jar
+DragNs_Livestock_Overhaul-1.20.1-3.0.2.jar
+dragon_mounts_patches-1.0.0.jar
+embeddium-0.3.31+mc1.20.1.jar
+expanded_ecosphere-3.2.4-forge.jar
+experimentalsettingsdisabler-1.20.1-3.0.jar
+Explorify v1.6.2 f10-48.jar
+fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar
+fancymenu_forge_3.6.4_MC_1.20.1.jar
+fantastic_worlds-1.20+1.1.0.jar
+FarmersStructures-1.0.3-1.20.jar
+faunify-forge-1.20.1-1.2.1.jar
+formations-1.0.4-forge-mc1.20.2.jar
+fowlplay-1.0.0+1.20.1-forge.jar
+FPSboost-1.20.1.jar
+framework-forge-1.20.1-0.7.15.jar
+ftb-library-forge-2001.2.10.jar
+fusion-1.2.10-forge-mc1.20.1.jar
+fzzy_config-0.7.2+1.20.1+forge.jar
+Galosphere-1.20.1-1.4.1-Forge.jar
+geckolib-forge-1.20.1-4.7.3.jar
+GlitchCore-forge-1.20.1-0.0.1.1.jar
+gml-4.0.11-all.jar
+Hamtastic_Hamsters-1.20.1-1.2.jar
+HangGlider-v8.0.1-1.20.1-Forge.jar
+happy_ghast-3.0.0-forge-1.20.1.jar
+harvest-with-ease-forge-1.20.1-9.4.0.jar
+herbaldelight-1.3-patch3-1.20.1.jar
+holdmyitems-1.20.1v2.1.jar
+HopoBetterMineshaft-[1.20.1-1.20.4]-1.2.2d.jar
+HopoBetterRuinedPortals-[1.20-1.20.2]-1.3.7b.jar
+HopoBetterUnderwaterRuins-[1.20.1-1.20.4]-1.1.5b.jar
+hydrological-1.20.x-0.14.0.jar
+immersive_furniture-forge-0.0.9+1.20.1.jar
+immersive_melodies-0.6.0+1.20.1-forge.jar
+ImmersiveThunder-1.20.1+1.2.2.jar
+integrated_api-1.5.3+1.20.1-forge.jar
+JustEnoughResources-1.20.1-1.4.0.247.jar
+justzoom_forge_2.1.1_MC_1.20.1.jar
+katters-structures-1.6.jar
+keymap-beta-1.20.1-forge.jar
+Kiwi-1.20.1-Forge-11.8.31.jar
+kleiders_custom_renderer-7.4.1-forge-1.20.1.jar
+konkrete_forge_1.8.0_MC_1.20-1.20.1.jar
+kotlinforforge-4.11.0-all.jar
+ldlib-forge-1.20.1-1.0.42.jar
+letmedespawn-1.20.x-forge-1.5.0.jar
+letsdo-API-forge-1.2.15-forge.jar
+letsdocompat-forge-2.2.3.jar
+letsdo-furniture-forge-1.0.4.jar
+letsdo-lilis_lucky_lures-forge-1.0.2.jar
+letsdo-nethervinery-forge-1.2.19.jar
+libIPN-forge-1.20-4.0.2.jar
+libraryferret-forge-1.20.1-4.0.0.jar
+lithostitched-forge-1.20.1-1.4.11.jar
+LoadedModsExporter-5.0.jar
+MaFgLib-0.1.14-mc1.20.1.jar
+man_of_many_planes-0.2.0+1.20.1-forge.jar
+melody_forge_1.0.3_MC_1.20.1-1.20.4.jar
+mes-1.3.4-1.20-forge.jar
+midnightlib-forge-1.4.2.jar
+MiniHUD-Extra-0.2.1-mc1.20.1-forge.jar
+mns-1.0.3-1.20-forge.jar
+modelfix-1.15.jar
+modernworldcreation_forge_2.0.2_MC_1.20.1.jar
+Mo-Glass-1.7.1-MC1.20.1-Forge.jar
+moonlight-1.20-2.16.2-forge.jar
+MRU-1.0.4+1.20.1+forge.jar
+mss-1.2.7-1.20.jar
+mythicmounts-20.1-7.4.2-forge.jar
+Necronomicon-Forge-1.6.0+1.20.1.jar
+noisium-forge-2.3.0+mc1.20-1.20.1.jar
+oculus-flywheel-compat-Forge-2.0.3.jar
+oculus-mc1.20.1-1.8.0.jar
+Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.13.jar
+owo-lib-0.11.2+1.20.jar
+particular-1.20.1-Forge-1.2.4.jar
+physics-mod-pro-v171h-forge-1.20.1.jar
+Placebo-1.20.1-8.6.3.jar
+Platform-forge-1.20.1-1.2.10.1.jar
+player-animation-lib-forge-1.0.2-rc1+1.20.jar
+plenty_of_golems-1.4.2-forge-1.20.1.jar
+plushies-1.4.0-forge.jar
+PuzzlesLib-v8.1.32-1.20.1-Forge.jar
+resourcefulconfig-forge-1.20.1-2.1.3.jar
+resourcefullib-forge-1.20.1-2.1.29.jar
+Resourcify (1.20.1-forge)-1.7.4.jar
+Ribbits-1.20.1-Forge-3.0.4.jar
+riverredux-0.3.1.jar
+saturn-mc1.20.1-0.1.3.jar
+Searchables-forge-1.20.1-1.0.3.jar
+sky_whale_ship-1.20.1.jar
+sleep_tight-1.20-1.4.5.jar
+sliceanddice-forge-3.4.1.jar
+slimeoverhaul-forge-1.20.1-1.0.3.jar
+smallships-forge-1.20.1-2.0.0-b1.4.jar
+SmartBrainLib-forge-1.20.1-1.15.jar
+Sniffer+-forge-1.20.1-0.3.0.jar
+snowyspirit-1.20-3.0.10.jar
+Sounds-2.2.1+1.20.1+forge.jar
+sparsestructures-forge-1.20.1-3.0.jar
+spawn-2.2.jar
+ssamod-0.8.jar
+Structory_Towers_1.20.x_v1.0.7.jar
+SubtleEffects-forge-1.20.1-1.12.1.jar
+supermartijn642configlib-1.1.8-forge-mc1.20.jar
+sweety_garden-1.0.1-forge-1.20.1.jar
+tcdcommons-3.12.3.3+fabric-1.20.1.jar
+TCTcore-1.20.1.jar
+tectonic-3.0.8-forge-1.20.1.jar
+TerraBlender-forge-1.20.1-3.0.1.10.jar
+Terralith_1.20.x_v2.5.4.jar
+terramath-1.3.0-1.20+forge.jar
+terrariumsandcages-1.0.1.jar
+tidal-1.0.3-forge-1.20.1.jar
+tool-trims-mod-v2-2-1a.jar
+Towns-and-Towers-1.12-Fabric+Forge.jar
+trade-cycling-forge-1.20.1-1.0.18.jar
+trek-B0.5.1.jar
+trinkets-3.7.2.jar
+txnilib-forge-1.0.24-1.20.1.jar
+u_desert-1.6.3+mc1.19-1.21.8.jar
+u_sea-1.2.3+mc1.19-1.21.8.jar
+unusual_furniture-1.0-forge-1.20.1.jar
+Unwrecked Ships Plus 2.0.5 Forge.jar
+vanillabackport-forge-1.20.1-1.1.4.3.jar
+various-starting-loot-2.0.jar
+VillagersPlus_3.1_(FORGE)_for_1.20.1.jar
+Waddles-1.20.1-0.9.4.jar
+wakes-1.20.1-Forge-1.0.5.jar
+wither_spawn_animation-1.5.2-forge-1.20.1.jar
+WWOO-FABRIC+FORGE+QUILT-2.0.0.jar
+yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar
+YungsApi-1.20-Forge-4.0.6.jar
+Zeta-1.0-30.jar
+Zoomify-2.14.4+1.20.1.jar
+勿更新！DoggyTalentsNext-1.20.1-1.18.54.jar
