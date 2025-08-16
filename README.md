@@ -15,3 +15,7 @@
 这里暂不提供旧版本下载（beta1.2.5-)版本
 
 找不到release？点击[这里](https://github.com/liuxirivers/Rice-Wave-Journey-Minecraft-Modpack/releases "下载-release")下载
+
+# 介绍
+
+此整合包是一款融合了多元素（建筑、原版+、探索、冒险、工业、烹饪、种植的整合包
